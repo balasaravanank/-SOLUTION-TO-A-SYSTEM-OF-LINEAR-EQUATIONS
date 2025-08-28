@@ -30,7 +30,8 @@ print(C)
 ```
 
 ## Output:
-<img width="1277" height="270" alt="Screenshot 2025-08-14 041541" src="https://github.com/user-attachments/assets/448681fd-23e8-4427-a21d-72c73d5f5448" />
+<img width="2543" height="1344" alt="Screenshot 2025-08-28 024559" src="https://github.com/user-attachments/assets/eb144e41-f4ed-4bcd-bc72-081051ce3062" />
+
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
